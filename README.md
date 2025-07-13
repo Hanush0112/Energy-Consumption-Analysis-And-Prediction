@@ -43,6 +43,6 @@ To provide an interactive and insightful platform for:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/energy-consumption-predictor.git
+git clone https://github.com/Hanush0112/energy-consumption-predictor.git
 cd energy-consumption-predictor
 
